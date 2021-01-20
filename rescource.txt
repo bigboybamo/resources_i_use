@@ -4,3 +4,4 @@ Generating data to use to test your application- https://www.mockaroo.com/
 Small icons for react (twitter,facebook etc) - https://react-icons.github.io/react-icons/
 beautiful Uis - https://codingui.dev/
 free pictures - https://pixabay.com/
+free resume templates-https://resumake.io/
